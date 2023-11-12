@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "New_Dream_Mirror", "New_Dream_Mirror\New_Dream_Mirror.vcxproj", "{97F167F4-9D41-41A6-B9F9-DBA30F930B46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97F167F4-9D41-41A6-B9F9-DBA30F930B46}.Debug|x64.ActiveCfg = Debug|x64
+		{97F167F4-9D41-41A6-B9F9-DBA30F930B46}.Debug|x64.Build.0 = Debug|x64
+		{97F167F4-9D41-41A6-B9F9-DBA30F930B46}.Release|x64.ActiveCfg = Release|x64
+		{97F167F4-9D41-41A6-B9F9-DBA30F930B46}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59F03E3D-2987-45C7-B8FD-C99AE964E3F8}
+	EndGlobalSection
+EndGlobal
